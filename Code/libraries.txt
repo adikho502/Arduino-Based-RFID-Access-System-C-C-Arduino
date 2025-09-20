@@ -1,0 +1,5 @@
+# Required Arduino Libraries
+SPI
+MFRC522
+Servo
+LiquidCrystal
